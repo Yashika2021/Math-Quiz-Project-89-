@@ -1,0 +1,44 @@
+body
+{
+    background-image: linear-gradient(to left, #4E9F3D, #D8E9A8);
+    background-repeat: solid;
+    margin: 0%;
+}
+hr 
+{
+    border-top: 5px dotted #1E5128;
+}
+#div1  
+{
+	background: #1E5128;
+	border-radius: 15px;
+    padding : 10px;
+    color : white;
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+#div2 
+{
+	background: #1E5128;
+	border-radius: 15px;
+    padding : 10px;
+    color : white;
+    position: absolute;
+    top: 77%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+img{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+}
