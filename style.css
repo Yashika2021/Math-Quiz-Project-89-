@@ -37,8 +37,22 @@ hr
 	display: inline-block;
 	margin-left: 20px;
 }
-img{
-    border-radius: 50%;
+img
+{
+    border-radius: 60%;
     width: 125px;
-    height: 125px;
+    height: 120px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #D8E9A8;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#btn_2
+{
+    border: 3px solid #1E5128;
 }
